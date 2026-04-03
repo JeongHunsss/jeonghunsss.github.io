@@ -1,8 +1,10 @@
 # main links
 main:
-  - title: "About"
-    url: /about/
-  - title: "Posts"
-    url: /year-archive/
+  - title: "Skills"
+    url: /#skills
+  - title: "Projects"
+    url: /#projects
+  - title: "Education"
+    url: /#education
   - title: "GitHub"
     url: https://github.com/JeongHunsss
